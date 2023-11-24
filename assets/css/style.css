@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+/* font-family: 'Open Sans', sans-serif; */
+
+body {
+  max-width: 450px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  margin: auto;
+  color: #393d41;
+  background-color: white;
+}
+header {
+  background-color: black;
+}
+
+#logo {
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 2em;
+}
+#logo img {
+  width: 75%;
+  height: 100%;
+  margin: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  /* text-align: center; */
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  padding: 1em;
+}
+h4 {
+  color: white;
+}
+.italic {
+  font-style: italic;
+}
+#cover {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-image: url(../images/banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+}
+
+#cover p {
+  margin-left: 45px;
+  margin-right: 45px;
+  padding-bottom: 1em;
+}
+#cover h1 {
+  line-height: 1;
+  padding-bottom: 1em;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.btn {
+  border: none;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  background-color: #f04c2f;
+  border-radius: 5px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 2em;
+  padding-left: 2em;
+  margin-top: 1em;
+}
+
+.article {
+  padding-top: 2em;
+  /* padding-bottom: 1em; */
+  margin-left: 45px;
+  margin-right: 45px;
+  text-align: center;
+}
+
+#img-article {
+  padding-top: 2em;
+  border-radius: 50%;
+}
+#ceo {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  background-color: #e22d0e;
+  color: white;
+}
+#ceo h2 {
+  color: white;
+}
+
+.testimonials {
+  padding-top: 2em;
+  margin-left: 45px;
+  margin-right: 45px;
+  text-align: center;
+}
+.identy {
+  padding-bottom: 1em;
+}
+
+#info {
+  font-size: small;
+  padding-bottom: 3em;
+}
+.img img {
+  width: 36vw;  
+}
