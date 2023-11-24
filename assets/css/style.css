@@ -124,6 +124,15 @@ h4 {
   font-size: small;
   padding-bottom: 3em;
 }
-.img img {
-  width: 36vw;  
+.service {
+  /* padding-top: 1em; */
+  /* padding-bottom: 1em; */
+  margin-top: 0;
+  margin-left: 45px;
+  margin-right: 45px;
+  text-align: center;
+  border: 1px solid #dee1e3;
+}
+.img-article {
+  width: 357.85px; 
 }
