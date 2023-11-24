@@ -134,5 +134,19 @@ h4 {
   border: 1px solid #dee1e3;
 }
 .img-article {
-  width: 357.85px; 
+  width: 357.85px;
+}
+
+footer {
+  background-color: #25a2c3;
+  padding-bottom: 3em;
+}
+footer h2,
+a,
+p {
+  color: white;
+}
+hr {
+  border-bottom: 1px solid white;
+  width: 50%;
 }
