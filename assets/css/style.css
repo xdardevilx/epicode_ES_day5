@@ -88,6 +88,9 @@ h4 {
   padding-left: 2em;
   margin-top: 1em;
 }
+.btn a {
+  text-decoration: none;
+}
 
 .article {
   padding-top: 2em;
